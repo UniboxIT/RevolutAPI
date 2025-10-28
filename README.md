@@ -1,6 +1,9 @@
 
 [![stable](https://img.shields.io/nuget/v/RevolutAPI.svg?label=stable)](https://www.nuget.org/packages/RevolutAPI/)
 
+# NOTICE
+⚠️ Be **careful** using Revolut. Use it with **caution**, because they can **close your account** at any time **without prior notice** or **any explanation**.
+
 # API documentation
 https://developer.revolut.com/docs/merchant/merchant-api
 
